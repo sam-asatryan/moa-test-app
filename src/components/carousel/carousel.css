@@ -1,0 +1,41 @@
+.carousel-container {
+    height: 100%;
+}
+
+.carousel .slide {
+    background: transparent;
+}
+
+.carousel-item {
+    height: 650px;
+    text-align: center;
+    letter-spacing: 0;
+    color: #707070;
+    opacity: 1;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-item > h2 {
+    width: 33%;
+    min-width: 200px;
+    text-align: center;
+    letter-spacing: 0;
+    color: #707070;
+    opacity: 1;
+    font-weight: lighter;
+    font-size: 40px;
+}
+
+.carousel-button {
+    width: 273px;
+    height: 60px;
+    margin-top: 64px;
+    background: #D1CECE 0 0 no-repeat padding-box;
+    border-width: 0;
+    border-radius: 4px;
+    opacity: 1;
+}

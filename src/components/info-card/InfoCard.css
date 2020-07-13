@@ -1,0 +1,38 @@
+.card-info {
+    background: #F1F1F1 0 0 no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-info-image {
+    margin: 0 auto 32px;
+}
+
+.card-info-title {
+    text-align: center;
+    letter-spacing: 0;
+    color: #707070;
+    opacity: 1;
+}
+
+.card-info-description {
+    text-align: left;
+    font: 16px/28px Segoe UI;
+    letter-spacing: 0;
+    color: #707070;
+    opacity: 1;
+    margin-bottom: 32px;
+}
+
+.card-info-button {
+    width: 100%;
+    height: 60px;
+    border: none;
+    background: #D1CECE 0 0 no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+}
